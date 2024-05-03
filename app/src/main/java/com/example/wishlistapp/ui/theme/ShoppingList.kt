@@ -216,7 +216,7 @@ fun ShoppingItem(
             .padding(8.dp)
             .fillMaxWidth()
             .border(
-                border = BorderStroke(2.dp, Color(0xFFA52A2A)),
+                border = BorderStroke(2.dp, Color(0xFFF5DEB3)),
                 shape = RoundedCornerShape(20)
             ), horizontalArrangement = Arrangement.SpaceEvenly
     ){

@@ -42,10 +42,6 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-@Preview(showBackground = true)
-@Composable
-fun WishListAppPreview() {
-    ShoppingListApp()
 
 
-}
+
